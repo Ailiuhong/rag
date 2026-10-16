@@ -1,0 +1,4 @@
+kinghy:
+  alioss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    bucket-name: hongdemo
